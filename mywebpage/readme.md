@@ -88,10 +88,6 @@
 
 				<div class="col-md-6">
 					<article style="background-color:Aquamarine; padding-bottom: 110px;
-padding-left: 15px;
-padding-right:10px;
-padding-top:55px;
-margin:12px ">
 						<h3> <b> <s>Интересная</s> информация обо мне</b></h2>
 						<p>Я:<br>
 						<p><li>Мечтала поступить на ОП "Фундаментальная и компьютерная лингвистика" во ВШЭ с 8 класса</li> <br>
