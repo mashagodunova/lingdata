@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-19T00:42:25+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/hp/Pictures/angara2.0.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Pictures/angara2.0.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a35e2c6e-04bc-487c-a7f1-1c8754a14ea9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">55</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="33500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="34500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="54950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="55322"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="92064"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="92192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="110966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="111870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="115967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="117741"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="120321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="121160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="121805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="121967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="137580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="137805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="138192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="138870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="150354"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="151347"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="151347"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="195797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="195797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="201000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="229350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="229550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="229550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="246850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="246850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="247875"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="252150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="252300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="253025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="253125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="255100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="255275"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="257050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="257125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="259825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="259963"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="260713"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="260738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="261438"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="272000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="435000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="436570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="477999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="478333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="494571"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="495428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="521904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="522952"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="550121"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="godunova" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@da1971m" TIER_ID="@da1971m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Он знал, что ево  начали ловить, / и он начал предпринимать контрмеры, ну-у-у остановиться он уже не мог, для нево это был ну-у-у адреналин, / ему нужно было и убить жертву, да *?*, там все эти / сексуальные потребности, ну, удовлетворить, и поймать вот этот вот, ну, так скажем, кайф оттово, что он / убивает, он знает, что ево ловят и не могут поймать, то есть он играл с системой, ставил себя выше, получается, системы, и-и-и в принципе, ну, у нево до каково-то периода времени это получалось //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>После того, как в две тыщи втором году группа была создана  уже москвичей, да *?*, он не работал, но у нево в паспортном столе работала жена, /  после две тыщи второва года Попков, ну, вопще очнь мало совершил преступлений, а раньше он убивал по два-три раза в месяц спокойно, то есть он не сдерживал себя. / Думаю, все равно вот это создание группы каким-то стало барьером //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Затапливались комнаты хранения вещдоков, прорывало отопление, да *?*,  / либо просто их теряли, / ну вот, // то есть процентов двацать точно утрачено было вещдоков, которые, ну, можно было использовать / в доказывании вины Попкова, в установлении ево / генотипа, так скажем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>В пять утра / Попков поехал на / автостанцию купить пирожки-он в то время находился на смене, / и по дороге вот ему, получается, возле / магазина бычий *нрзб* / шла Дорогова. / Остановился, / под.. ну с-с-с, / куда идете, там туда-сюда, / я так понимаю, что ничево другова она, кроме таво, что она идет на поезд встречать мать, она ему не могла сказать. / Попков был в форме- это сто процентов. / Сюда / машина Попкова заехала, получается, // тут с ней вступил в половую связь, с Дороговой, совершенно трезвой, которая не хотела никаких интимных отношений, ну по сути он ее изнасиловал, да *?*. / Тут буквально до вокзала пяцот метров осталось. / Сюда свернул, / здесь ее убил // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>В две тыщи-и / десятом году, / в конце девятого Морозов Юрий Александрович / ушел на повышение, / ну и как бы , несмотря на все эти препоны, преграды руководства ну вот / за-а / себя оставил, ну вот меня на...на своем месте руководителем группы / назначил //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Ну, / когда вот плывешь по реке, вообще красиво, / ну вот это снизу все смотрится...так //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Вот / два раза сплавлялись / летом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Не-е-ет, / почему? / С коллегами бывшими / по работе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Да,да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>В две тыщи двенадцатом году в январе, да *?*,, мы вот собрались после праздников / и-и ,ну, / также все вместе всей группой оперативной / сказали : либо мы в этом году раскроем преступление, / либо / нас к концу года разгонят. / Провели также вот этот вот мозговой штурм, составили для себя вот эти вот / ещё раз / поисковые признаки / : нивы, третья группа крови, работник правоохранительных органов. / Поставили / целью / ну как бы план, да *?*, поднять списки лиц всех мужского пола, / подходящих по возрасту, / да *?*, кто вот / подходит под признаки, / и-и-и те, кто будет повторяться два и более раз, /  их в отдельный список отобрать / и начать вот как бы в первую очередь отрабатывать тех, / кто повторяется больше всего раз. / Изначально список получился около трех тсяч человек, / че-то, /две пяцот с чем-то, / из него повторов получилось триста сорок / четыре или шесть человек, / ну среди них был Попков, / получается, он попал по двум признакам. / Ну отрабатывать начали, конечно, с буквы А, /и только вот / к э-э-э / марту месяцу /две тыщи двенацатого года, или апрель это был, / апрель,по-моему, / апрель, /дошли до буквы П. / В июне месяцу мне позвонил Доморадов, / сказал :так и так, / у нас появился подозреваемый, / совпал генотип / Попкова Михаила Викторовича. / Установили, / что он выехал / ва-а-а Владивосток на поезде, /вот буквально / накануне, да *?* . / Мы прикинули, / что если мы / на самолете вылетим, / то мы за сутки да-а...да его приезда там уже будем. И-и вечером того же дня мы / с Виктором Маслуковым и двумя бойцами / собра иркутского / вылетели во Владивосток. / Туда прилетели, / осмотрелись, // связались э-э-э  с местными оперативниками / линейными, / те нам подсказали, / где лучше сесть в поезд, / шоб его задержать. / Мы на станции, / которая *нрзб*, / была остановка перед Владивостоком. / Зашли в поезд, / получается, / сели, / ну-у-у, в разные/ концы вагона. // Я с-с-с одним бойцом обра с одной стороны шел, / Виктор Маслаков с другой стороны шел, / то есть подошли с двух сторон, / штоб у нево не было возможности / как бы-ы / ну куда-то / побежать // люди сразу / ну как бы / разошлись - / мы показали удостоверения, / сели, / я ему ткнул удостоверение, / говорю: / вот, / задержан / по подозрению / убийств женщин в городе Ангарске . / Он так головой кивнул, / да, /  я все понял, / все то есть никакова сопротивления вопще не оказывал. / Забрали у нево сумку, / открыли, / а там находилось ружье, /получается, // полуавтоматическое, / то есть он.../магазин был снаряжен /  патронами, // то есть доставай и стреляй. / Он чувствовал, / что за ним скоро придут, / он как бы /не предполагал, / что в поезде произойдёт //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>На следующий день вывезли ево из СИЗО, // ну вот он сразу же признался как минимум в трех преступлениях, / по которым / генотип ево / ну / совпал, / поначалу / ну как бы / старался он все-таки / ну все равно юлить, / ну вот он здесь тоже надеялся, / что как-то отделаться / меньшими потерями, / и не отрицал сначала / ну как бы / так... такая позиция была : ни да ни нет. //  Ну вот / после того, / как мы с ним про пути хороший и плохой, / то есть он принял все-таки решение, / что будет жить / по хорошему сценарию, / ну то есть обеспечим ево безопасность, / так скажем да *?* //    </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Свидания с родными, / попить, / покурить , там / чай,  / передачи.  / Он человек / себя любящий, / мелочный, / алчный, / конечно. не мог как бы не согласиться на такое предложение - согласился //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Он написал еще десять явок с повинной, // ну, / как он сам потом говорил, /  что вот ему надо было все равно с кем-то выговориться, / да *?* потому что ему / по ночам снились эти женщины, / снились убийства, / он даже / ночью просыпался да *?* и / ну ходил, / смотрел, / живы ли его там жена и дочка, / не мог ли он их убить вот /, потому что у нево все как бы / перемешалось- / реальность и вот эти ево / воспоминания //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@pmv1961m" TIER_ID="@pmv1961m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>А здесь как бы / все-о-о / объяснимо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ну, что, технологии уже более современные стали, / вот и все, другова объяснения нету. / По площадям когда стреляет /  военная / или ковровая  в  *нрзб*, когда те... когда всю территорию накрывает... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>То есть, / я вот, / среди/ общего большого числа я оказался именно тем, у каво взяли сравнительные образцы для / анализа</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@my1964m" TIER_ID="@my1964m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Во всех делах была написана, что / были изъяты вещдоки / с места преступления. Когда я спрашивал, где эти вещдоки, / э-э-э, и Костылев и Державин мне сказали, что-о / практически девяносто процентов вещдоков было утеряно, и-и-и / , а-а-а, мы собирали эти вещдоки буквально по крупицам, вот эти все остатки, и-и-и, мы начали не / с нуля, а мы начали с минуса, и-и-и этот минус,э-э-э, как бы и-и-и давал тормоз этот // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Ну,Артем,э-э, вот из тех людей, / который может, э-э, / взяться за мизинец / на-а-а / п-пальце на левой ноге / и добраться, постепенно жуя, до горла преступника. / Он был очень, / ммм / очень упорен в достижении цели. / Вот он / э-э-э / действительно / был / э-э-э тот человек, / который в ко... в конечном итоге и нужен был для того, чтобы раскрыть маньяка //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@sa1987f-text" TIER_ID="@sa1987f-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>А как вам кажется, почему вас так долго-о / не могли / вычислить? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Как же? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Угу, да, / конешно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Ага. / С детьми? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>С мужиками //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>В этом доме в пятьдесят первом квартале, / или, / как говорят в Ангарске, квартале *ударение на первый слог*, / вместе с женой и дочкой жил Михаил Попков-/ вот их окна на втором этаже. / Соседи вспоминают семью Попковых / и называют ее почти идеальной, / они вместе ходили в походы, /  ездили на велосипедах, / Михаил был не очень общительным, / но такого подумать о нем / никто не мог. // Кстати, / работал ангарский маньяк буквально в соседнем здании, / сейчас здесь жилой дом, /  а в девяностые это было центральное отделение милиции //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="@da1971m-text"
+        PARTICIPANT="@da1971m" TIER_ID="transl@da1971m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>He knew that he was being caught, / and he began to take countermeasures, well, he could not stop, for him it was well-u-u adrenaline, / he had to kill the victim, right *?* , there are all these / sexual needs, well, to satisfy, and to catch this one here, well, so let's say, the buzz is because he / kills, he knows that they catch him and can't catch him, that is, he played with the system, put himself above, it turns out, the system, and-and-and in principle, well, he did it up to some period of time  //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>After the group was created by Muscovites in the two thousand and second year, right *?* , he did not work, but his wife worked at his passport office, / after two thousand and two year, Popkov, well, in general, committed very few crimes, and before he killed two or three times a month calmly, that is, he did not restrain himself. / I think, all the same, this creation of the group somehow became a barrier //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>The evidence storage rooms were flooded, the heating broke through, yes *?* , / or they were simply lost, / well, / / that is, two hundred percent of the evidence was definitely lost, which, well, could be used / in proving Popkov's guilt, in establishing his / genotype, so to speak /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>At five in the morning / Popkov went to / the bus station to buy pies-he was on shift at that time, / and on the way here, it turns out, near / the bull ... store / Dorogova was walking. / Stopped, / under.. Well, s-s-s, / where you're going, there's back and forth, / I understand that she couldn't tell him anything else except that she was going to the train to meet her mother. / Popkov was in the uniform for one hundred percent. / Here / Popkov's car drove in, it turns out, / / here he entered into a sexual relationship with her, with Dorogova, completely sober, who did not want any intimate relations, well, in fact, he raped her, right *?*. / There are literally five hundred meters left to the train station. / He turned here, / killed her here //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>In two thousand-and / the tenth year, / at the end of the ninth, Yuri Alexandrovich Morozov / left for promotion, / well , and, as it were, despite all these obstacles, obstacles of the leadership, well, he left himself / for-and / himself, well, here I am on...on his place, the head of the group / appointed //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Well, / when you're floating on the river, it's generally beautiful, / well, everything looks like this from below...so //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Here / we rafted twice / in the summer //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Noooo, / why? / With former colleagues / at work //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Ye-yeah//</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>In the two thousand twelfth year in January, right *?*, we gathered here after the holidays / and-and, well, / also all together with the whole operational group / said: either we will solve the crime this year, / or / we will be dispersed by the end of the year. / We also conducted this brainstorming session, made up for ourselves these / once again / search signs /: fields, the third blood type, a law enforcement officer. / Set / a goal / well, like a plan, right *?* , raise the lists of persons of all males, / suitable for age, / right *?*, who / fits the signs, / and-and-and those who will be repeated two or more times, / select them in a separate list / and start working out those / who are repeated the most times in the first place. / Initially, the list turned out to be about three thousand people, / something, /two hundred and something, / three hundred and forty / four or six people turned out to be repetitions of it, / well, Popkov was among them, / it turns out that he got on two grounds. / Well, they started working out, of course, with the letter A, /and only then / by the month of March /two thousand twenties of the year, or it was April, / April, in my opinion, / April, /they reached the letter P. / In June, Domoradov called me, / said :so and so, / we have a suspect, / the genotype of / Mikhail Viktorovich Popkov coincided. / We found out / that he left / va-a-a Vladivostok by train, / literally / the day before, yes *?* . / We figured, / that if we / take off by plane, / then we will do it in a day...yes, his arrival will already be there. And-and in the evening of the same day, we / with Viktor Maslukov and two fighters / of the Irkutsk sobr / flew to Vladivostok. / We flew there, / looked around, / / contacted the local operatives / linear, / they told us / where it was better to get on the train, / to delay it. / We are at the station, / which ..., / there was a stop before Vladivostok. / We got on the train, / it turns out, / sat down, / well, in different / ends of the car. // I was walking with one obra fighter on the one hand, / Viktor Maslakov was walking on the other side, / that is, they came up from two sides, / so that he did not have the opportunity / to run somewhere / / people immediately / well, as it were/ dispersed- / we showed our certificates, / sat down, / I poked him with the certificate, / I say: / here, / detained / on suspicion / of the murders of women in the city of Angarsk . / He nodded his head like that, / yes, /  understood everything, / everything, that is, he did not offer any resistance to vopche. / They took the bag from him, / opened it, / and there was a gun there, / it turns out, / / semi-automatic, / that is, he.../the magazine was equipped with / cartridges, / / that is, take it out and shoot. / He felt / that they would come for him soon, / he did not seem to / assume / what would happen on the train //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>The next day they took him out of the pre-trial detention center, / / well, he immediately confessed to at least three crimes, / for which / the genotype of him / well / coincided, / at first / well, as if / he still tried / well, anyway, to cheat, / well, here he also hoped / that he would somehow get off / with less losses, / and did not deny at first / well, as it were / so... this position was: neither yes nor no. // Well, / after / we talked about the good and bad paths with him, / that is, he still made a decision / that he will live / according to a good scenario, / well, that is, we will ensure his safety, / so let's say, right *?* //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Dates with relatives, / to drink, / to smoke, there / tea, / transfers. / He is a person / who loves himself, / petty, / greedy, / of course. He couldn't help but agree to such a proposal - He agreed //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>He wrote ten more confessions, / / well, / as he himself later said, / that he had to talk to someone anyway, / right *?* because he / dreamed of these women at night, / dreamed of murders, / he even / woke up at night right *?* and / well, he went, / looked, / whether his wife and daughter were alive there, / could he not kill them here /, because everything seemed to be / mixed up - / reality and these his / memories //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="@pmv1961m-text"
+        PARTICIPANT="@pmv1961m" TIER_ID="transl@pmv1961m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>And here, as it were, / everything-oh-oh / is understandable //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Well, that, the technologies have already become more modern, / that's all, there is no other explanation. / On the squares when shooting / military / or carpet in ... , when those... when the entire territory is covered... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>That is, / I was, / among/ the total large number, I turned out to be exactly the one from whose comparative samples were taken for / analysis //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="@my1964m-text"
+        PARTICIPANT="@my1964m" TIER_ID="transl@my1964m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>In all cases, it was written that / evidence was seized / from the crime scene. When I asked where these evidences were, / uh, and Kostylev and Derzhavin told me that-oh / almost ninety percent of the evidence was lost, and-and-and/, and-and-and, we collected these evidences literally bit by bit, these are all the remnants, and-and - and, we did not start / from scratch, but we started with a minus, and-and-and this minus, uh, as if and-and-and gave this brake //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Well, Artem, uh, he is one of those people / who can, uh, / take up the little finger / on the-e-e / f-finger on the left foot / and get, gradually chewing, to the throat of the criminal. / He was very, / mmm / very persistent in achieving the goal. / Here he / uh-uh / really / was / uh-uh that person / who is in the e... in the end, he was needed in order to uncover the maniac //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="godunova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="@sa1987f-text"
+        PARTICIPANT="@sa1987f" TIER_ID="transl@sa1987f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>And what do you think, why did it take you so long to be / could / be calculated? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>How? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Yeah //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Yeah //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Yeah / With children? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>With men? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>In this house in the fifty-first quarter, / or, / as they say in Angarsk, the quarter *accent on the first syllable*, / Mikhail Popkov lived with his wife and daughter - / here are their windows on the second floor. / Neighbors remember the Popkov family / and call it almost perfect, / they went hiking together, / rode bicycles, / Mikhail was not very sociable, / but no one could think of him like that / / By the way, / the Angara maniac worked literally in the next building, / now there is a residential building here, / and in the nineties it was the central police station //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_8e88a66b-c22b-4f47-872e-0a821dbafcaf">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e2d36cae-d228-4ea8-b042-0ed709fecdf2">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6f6d7ea4-bd20-4ff6-92a2-428b4f513ad2">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a22c8c0d-426d-438a-9565-d817e2abdeee">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9a943a5a-d3f8-47a7-9ccd-95172e8e58ea">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d5b45985-7a5a-461c-987e-860d4b94fb39">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6dde43a2-eaf1-4380-bba6-2325822d063f">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_26b7ff04-2cc8-41f8-ac84-b1ed2ef79296">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8258b91d-0a6b-4e24-994c-c80579f663bd">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_47bc3fd7-8e58-49b7-ba63-78ade6fa77ec">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0e856483-beff-40b0-82c0-9adcca343899">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3d5389b5-82a9-492e-87a7-2171f4dbc7ae">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0f6f83d8-a5d3-4ca7-a038-f16dd1b884a9">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_9d0ac9b4-4ed4-4960-85a5-42b446cd0f94">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_574a6dc0-ea9c-4f1f-b5a6-3ce32767ab5b">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_40930e48-611a-446a-8447-3a1cfa191c2e">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9ef148b6-3c41-4970-81b5-67c5391121ca">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
