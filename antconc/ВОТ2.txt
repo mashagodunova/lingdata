@@ -1,0 +1,68 @@
+1	  разный государство да //  	и вот Константин Анатольевич 	livecorpus2021_lemma_pos.1.txt
+2	  зимний время //  мм //  	и вот а мы 	livecorpus2021_lemma_pos.1.txt
+3	  / думать ну все //  	и вот буквально крыша 	livecorpus2021_lemma_pos.1.txt
+4	  больше даже да ? //  	и вот в связь 	livecorpus2021_lemma_pos.1.txt
+5	  человек и план 	и вот все / //  у 	livecorpus2021_lemma_pos.1.txt
+6	  вот такой этот //  	и вот все / э / 	livecorpus2021_lemma_pos.1.txt
+7	  заходить / сколько человек / 	и вот вы весь 	livecorpus2021_lemma_pos.1.txt
+8	  здесь родиться да ? //  	и / вот / вы на 	livecorpus2021_lemma_pos.1.txt
+9	  километр //  ну это //  	и вот / добыча //  и 	livecorpus2021_lemma_pos.1.txt
+10	  в орган опека //  	и вот если мы 	livecorpus2021_lemma_pos.1.txt
+11	  очень большой цена //  	и вот за то 	livecorpus2021_lemma_pos.1.txt
+12	  кровать //  и понежиться //  	и вот здесь //  ты 	livecorpus2021_lemma_pos.1.txt
+13	  они ходить / //  ну 	и вот и и 	livecorpus2021_lemma_pos.1.txt
+14	  / аа / так и / 	и вот / и как 	livecorpus2021_lemma_pos.1.txt
+15	  быть //  лампадка гореть //  	и вот / лампа даже 	livecorpus2021_lemma_pos.1.txt
+16	  / когда пойти работать ? //  	и вот мамин - 	livecorpus2021_lemma_pos.1.txt
+17	  попредставлять законный интерес / 	и вот настать время 	livecorpus2021_lemma_pos.1.txt
+18	  старуха она ходить //  	и вот один старушка / 	livecorpus2021_lemma_pos.1.txt
+19	  как летучий голландец //  	и вот однажды прийтись 	livecorpus2021_lemma_pos.1.txt
+20	  комиссар Жевский кинолог //  	и вот он когда 	livecorpus2021_lemma_pos.1.txt
+21	  Павел Васильевич жить / 	и вот он / он 	livecorpus2021_lemma_pos.1.txt
+22	  ты не знать //  	и вот он я 	livecorpus2021_lemma_pos.1.txt
+23	  наговаривать не знать //  	и вот она / я 	livecorpus2021_lemma_pos.1.txt
+24	  бы он быть //  	и вот опять же 	livecorpus2021_lemma_pos.1.txt
+25	  и в этот … 	и вот … отстраивать Москва 	livecorpus2021_lemma_pos.1.txt
+26	  общий то легковой //  	и вот представить себя / 	livecorpus2021_lemma_pos.1.txt
+27	  посмотреть //  да / аа / 	и / вот / с какой 	livecorpus2021_lemma_pos.1.txt
+28	  смотреть //  вот фотография //  	и вот сундук //  пожалуйста / 	livecorpus2021_lemma_pos.1.txt
+29	  молодой давать учиться 	и / вот так вот 	livecorpus2021_lemma_pos.1.txt
+30	  рука ставить булавочка //  	и вот так и 	livecorpus2021_lemma_pos.1.txt
+31	  огромный количество обстоятельство //  	и вот только в 	livecorpus2021_lemma_pos.1.txt
+32	  весь огородить быть 	и вот тут быть 	livecorpus2021_lemma_pos.1.txt
+33	  я уехать / сюда //  	и вот щас / тут 	livecorpus2021_lemma_pos.1.txt
+34	  в свой жизнь //  	и вот это я 	livecorpus2021_lemma_pos.1.txt
+35	  липа / целый … да / 	и вот этот аа … 	livecorpus2021_lemma_pos.1.txt
+36	  / перемешаться - / реальность 	и вот этот его / 	livecorpus2021_lemma_pos.1.txt
+37	  такой да / аа / 	и вот ээ / Константин 	livecorpus2021_lemma_pos.1.txt
+38	  для наш медицина //  	и вот / ээ … ведь … 	livecorpus2021_lemma_pos.1.txt
+39	  будущее как тренер //  	и вот я / как 	livecorpus2021_lemma_pos.1.txt
+40	  не стать держать //  	вот и в Некрашово 	livecorpus2021_lemma_pos.1.txt
+41	  так и называться //  	вот и в общий / 	livecorpus2021_lemma_pos.1.txt
+42	  / какой работа //  работа 	вот и вот вот / 	livecorpus2021_lemma_pos.1.txt
+43	  все //  да да / 	вот //  и вот не 	livecorpus2021_lemma_pos.1.txt
+44	  селедка то забить 	вот и все //  а 	livecorpus2021_lemma_pos.1.txt
+45	  мечта стать первый //  	вот и все / да ? //  	livecorpus2021_lemma_pos.1.txt
+46	  вот / вон жить / 	вот и все //  рядом 	livecorpus2021_lemma_pos.1.txt
+47	  быть предположение //  ну 	вот / и второй как 	livecorpus2021_lemma_pos.1.txt
+48	  Зарослов / который диджеить //  	вот / и / два сыктывкарский 	livecorpus2021_lemma_pos.1.txt
+49	  учить / так я 	вот и делать //  в 	livecorpus2021_lemma_pos.1.txt
+50	  бабка выходить //  ну 	вот / и друг друг / 	livecorpus2021_lemma_pos.1.txt
+51	  раздувать один половина 	вот / и дуть / сдуться 	livecorpus2021_lemma_pos.1.txt
+52	  от учебный процесс / 	вот //  и еще проблема 	livecorpus2021_lemma_pos.1.txt
+53	  то //  да / да / 	вот / и / наверное из 	livecorpus2021_lemma_pos.1.txt
+54	  зуб все //  ну 	вот //  и она пойти 	livecorpus2021_lemma_pos.1.txt
+55	  дорабатывать / вот зарабатывать / 	вот //  и они весь 	livecorpus2021_lemma_pos.1.txt
+56	  короткий / семейный жизнь / 	вот и пахать четыре 	livecorpus2021_lemma_pos.1.txt
+57	  теплый вода / течь //  	вот и поглядеть вот / 	livecorpus2021_lemma_pos.1.txt
+58	  по //  свой квалификация //  	вот и поэтому ааа 	livecorpus2021_lemma_pos.1.txt
+59	  о что-то //  аа 	вот … и … поэтому … поиск 	livecorpus2021_lemma_pos.1.txt
+60	  сказать //  ладно / хороший //  	вот и прийтись он 	livecorpus2021_lemma_pos.1.txt
+61	  // в совхоз Скреплево // 	вот //  и с тот 	livecorpus2021_lemma_pos.1.txt
+62	  тот и сжечь / 	вот и сказочка конец //  	livecorpus2021_lemma_pos.1.txt
+63	  математика / физика / химия .. //  	вот / и у я 	livecorpus2021_lemma_pos.1.txt
+64	  да - да / 	вот и у я 	livecorpus2021_lemma_pos.1.txt
+65	  штука / вот этот 	вот //  и ходить в 	livecorpus2021_lemma_pos.1.txt
+66	  / красный уже //  а 	вот и це / #нрзб# / 	livecorpus2021_lemma_pos.1.txt
+67	  наряжаться у мы 	вот и щас наряживаться //  	livecorpus2021_lemma_pos.1.txt
+68	  ты быть нужный //  	вот и я прийти 	livecorpus2021_lemma_pos.1.txt
